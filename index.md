@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Unsupervised Learning Project
 
-[Project 1 Title](/sample_page)
+[Airplane Crashed](https://github.com/apham15/Airplane_Crashed)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
