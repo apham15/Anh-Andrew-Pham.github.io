@@ -1,17 +1,14 @@
 title: Anh Pham # your name (or website title) here
+
 logo: "/image/IMG_1438.png?raw=true" # your photo (or logo) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A Learner,
-  A Amuteur Chef,
-  A Traveler
+  A Learner, A Amuteur Chef, A Traveler
+  <p align="center">
   <br><br>
-  Second description 
+  <a href="https://www.linkedin.com/in/anhpham96/">LinkedIn</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/anhpham96/">LinkedIn</a> |
   <a href="https://github.com/apham15">GitHub</a>
-  
-   </p>
-  
   <p align="justify">
   I am pursing MS degree in Business Analytics at Kellstadt Business School, DePaul University, where I hold VP of Kellstadt Business Analytics Organization
   <br><br>
