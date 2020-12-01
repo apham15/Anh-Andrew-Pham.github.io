@@ -41,4 +41,21 @@ I am a traveler, who always use airplane as the main transportation to discover 
 * My data analysis above is good for travelers around the world to have an insider about traviling with airplane. And it is a good suggestion for operators or aerospace company to look up the disavantages of the past to improve their future businesses.
 
 ---
+### Unsupervised Learning Project: Fashion-MNIST
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Fashion_MNIST) 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1cdfu56A7ze5n3v5mvs-dneJaZT4jtGmo?usp=sharing)
+
+`Fashion-MNIST` is a dataset of [Zalando](https://jobs.zalando.com/tech/)'s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. `Fashion-MNIST` serves as a direct **drop-in replacement** for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
+
+![Screen Shot 2020-11-19 at 12 50 04 AM](https://user-images.githubusercontent.com/63126292/99631413-2f30e700-2a01-11eb-84aa-6ce1fdc6ddbd.png)
+
+#### Outcome
+* The best Clustering Model is KMeans with the number of cluster is 4
+
+* The best dimensional reduction to visualize is UMAP with n_neighbors = 5 and min_dist = 0.3 or n_neighbors = 7 and min_dist = 1
+
+***3D graph for UMAP***
+![newplot](https://user-images.githubusercontent.com/63126292/100052122-e69f7200-2de2-11eb-8253-c4cad0dcb0d8.png)
+
+---
 <center>© 2020 Anh (Andrew) Pham. Powered by Jekyll and the Minimal Theme.</center>
