@@ -41,3 +41,4 @@ I am a traveler, who always use airplane as the main transportation to discover 
 * My data analysis above is good for travelers around the world to have an insider about traviling with airplane. And it is a good suggestion for operators or aerospace company to look up the disavantages of the past to improve their future businesses.
 
 ---
+<center>© 2020 Anh (Andrew) Pham. Powered by Jekyll and the Minimal Theme.</center>
