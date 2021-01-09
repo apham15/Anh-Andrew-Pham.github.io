@@ -1,8 +1,9 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Unsupervised Learning Project: Airplane Crashed using Clustering methods( K-Means, Hierachical Clsutering, DBSCAN), Dimensionality Reduction (PCA, t-SNE, UMAP), and Text Processing with TF-IDF
+## Unsupervised Learning Project: Airplane Crashed 
+### Using Clustering methods( K-Means, Hierachical Clsutering, DBSCAN), Dimensionality Reduction (PCA, t-SNE, UMAP), and Text Processing with TF-IDF
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Airplane_Crashed) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1EcLvcgNmkrYZBPraaOk8EKw9X_KMONN2?usp=sharing)
 
@@ -40,7 +41,8 @@ I am a traveler, and airplanes are my primary means of transportation to discove
 * My data analysis above is good for travelers around the world to gain insight about traviling with via airplane. Finally, it is a good suggestion for operators of aerospace companies to research the disavantages of the past to improve their future businesses.
 
 ---
-### Unsupervised Learning Project: Fashion-MNIST using Clustering methods (K-Means, Hierarchical clustering, Gaussian Mixture Models, DBSCAN), apply Dimentional reduction to plot (PCA, t-SNE, LDA, UMAP), and build a 3d plot with UMAP
+## Unsupervised Learning Project: Fashion-MNIST 
+### Using Clustering methods (K-Means, Hierarchical clustering, Gaussian Mixture Models, DBSCAN), apply Dimentional reduction to plot (PCA, t-SNE, LDA, UMAP), and build a 3d plot with UMAP
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Fashion_MNIST) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1cdfu56A7ze5n3v5mvs-dneJaZT4jtGmo?usp=sharing)
 
@@ -61,7 +63,8 @@ I am a traveler, and airplanes are my primary means of transportation to discove
 * My work is very helpful for business solution teams in fashion industry. They can apply it to build the similar filters to select out what customers need/want. Also, if they do have some numerical dataset, my work can be an add-on for predicting the outcome base of the business model need.
 
 ---
-### Supervised Learning Project: Loan Prediction using Logistic, Decision Tree, Random Forest, K-Nearest Neighbor, Support Vector, Naive Bayes, and GBM
+## Supervised Learning Project: Loan Prediction 
+### Using Logistic, Decision Tree, Random Forest, K-Nearest Neighbor, Support Vector, Naive Bayes, and GBM
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Loan_Prediction) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1AinDO8z5Ud7OVTSx6KS3yGUauJqzzGhq?usp=sharing)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Loan_Prediction/blob/main/Supervised_Learning_Project_Loan_Prediction_final_version.ipynb)
@@ -106,7 +109,8 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 ![download](https://user-images.githubusercontent.com/63126292/97929852-b9096080-1d2f-11eb-9c42-036d103db5a1.png)
 
 ---
-### Supervised Learning Project: Wine Quality Prediction using Logistic, K-Nearest Neighbor, Decission Tree, Random Forest, Support Vector
+## Supervised Learning Project: Wine Quality Prediction 
+### Using Logistic, K-Nearest Neighbor, Decission Tree, Random Forest, Support Vector
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Loan_Prediction) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1AinDO8z5Ud7OVTSx6KS3yGUauJqzzGhq?usp=sharing)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Loan_Prediction/blob/main/Supervised_Learning_Project_Loan_Prediction_final_version.ipynb)
