@@ -2,12 +2,11 @@
 
 ---
 
-### Unsupervised Learning Project: Airplane Crashed
+### Unsupervised Learning Project: Airplane Crashed using Clustering methods( K-Means, Hierachical Clsutering, DBSCAN), Dimensionality Reduction (PCA, t-SNE, UMAP), and Text Processing with TF-IDF
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Airplane_Crashed) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1EcLvcgNmkrYZBPraaOk8EKw9X_KMONN2?usp=sharing)
 
-I am a traveler, who always use airplane as the main transportation to discover the world. And My favorite desination is Southest Asia, where I can do snokerling, kayaking, and diving. As a result, when I found this dataset, all my curiousities increase. Let's learn what was the airplane crashing from the past, I may know some insightful that would help me to decide for my future trips. Also, as an Asian, Chinese Zodiac is something very interesting. I did some fun stuff with that to learn more about the data.
-
+I am a traveler, and airplanes are my primary means of transportation to discover the world. My favorite desination is Southest Asia, an ideal destination for snokerling, kayaking, and diving. As a result, when I found this dataset, it piqued my curiosity. Learning from historical airplane crash data could offer insight that would assist me in making future travel decisions. Also, as an Asian, the Chinese Zodiac is something very interesting to me. I did some fun stuff with that to learn more about the data.
 ![airports-world-network](https://user-images.githubusercontent.com/63126292/100527674-00053d00-319a-11eb-8c97-93025d1dc632.png)
 
 
@@ -16,13 +15,13 @@ I am a traveler, who always use airplane as the main transportation to discover 
 #### 1. Airplane Crashing
 
 * USA has the highest fatility cases in the world
-* There are over 85% of airplan crashed which are from commercial flights
-* Don't fly with Aeroflot Operator, there is 68% chance of you dying.
-* Althout it is a military airplane, Don't fly in a Douglas DC-3 aircraft, you are 5 times more chance to dir and it had highest fatalities percentage.
+* There are over 85% of airplane crashed which are from commercial flights
+* Don't fly with Aeroflot Operator, there is 68% chance of death.
+* Although it is a military airplane, don't fly in a Douglas DC-3 aircraft, you are 5 times more likely to die and it had the highest fatalities percentage.
 * Don't take any flight that flies Tenerife - Las Palmas / Tenerife - Las Palmas route or Tokyo - Osaka.
 * Avoid going to Sao Paulo, Brazil ; Moscow, Russia ; Rio de Janeiro, Brazil ; they had highest plane crash location.
-* It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for airline industry.
-* Peole who are born in year of Ox have more chance to die, and people who are born in year of Horse have high chance to survive
+* It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for the airline industry.
+* Peole who are born in the year of the Ox have a higher risk of death, and people who are born in the year of the Horse have high chance to survive
 ![download (9)](https://user-images.githubusercontent.com/63126292/100661775-9a3fbf00-3319-11eb-8103-5b35c5bc2d9e.png)
 ![download (10)](https://user-images.githubusercontent.com/63126292/100661776-9ad85580-3319-11eb-8108-c98376f7e609.png)
 
@@ -37,11 +36,11 @@ I am a traveler, who always use airplane as the main transportation to discover 
 
 
 #### 4. Learning from this project
-* There is no absolute right answer for clustering. To bring the best results for business solution, I would recomend data scientists consider the best model that fit the business need and apply their business acumen to suggest the best strategy for the whole team.
-* My data analysis above is good for travelers around the world to have an insider about traviling with airplane. And it is a good suggestion for operators or aerospace company to look up the disavantages of the past to improve their future businesses.
+* There is no absolute right answer for clustering. To bring the best results for a business solution, I would recommend data scientists consider the best model that fits the business need and apply their business acumen to suggest the best strategy for the whole team.
+* My data analysis above is good for travelers around the world to gain insight about traviling with via airplane. Finally, it is a good suggestion for operators of aerospace companies to research the disavantages of the past to improve their future businesses.
 
 ---
-### Unsupervised Learning Project: Fashion-MNIST
+### Unsupervised Learning Project: Fashion-MNIST using Clustering methods (K-Means, Hierarchical clustering, Gaussian Mixture Models, DBSCAN), apply Dimentional reduction to plot (PCA, t-SNE, LDA, UMAP), and build a 3d plot with UMAP
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Fashion_MNIST) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1cdfu56A7ze5n3v5mvs-dneJaZT4jtGmo?usp=sharing)
 
@@ -62,20 +61,20 @@ I am a traveler, who always use airplane as the main transportation to discover 
 * My work is very helpful for business solution teams in fashion industry. They can apply it to build the similar filters to select out what customers need/want. Also, if they do have some numerical dataset, my work can be an add-on for predicting the outcome base of the business model need.
 
 ---
-### Supervised Learning Project: Loan Prediction
+### Supervised Learning Project: Loan Prediction using Logistic, Decision Tree, Random Forest, K-Nearest Neighbor, Support Vector, Naive Bayes, and GBM
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Loan_Prediction) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1AinDO8z5Ud7OVTSx6KS3yGUauJqzzGhq?usp=sharing)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Loan_Prediction/blob/main/Supervised_Learning_Project_Loan_Prediction_final_version.ipynb)
 
 Lending Club is "the world's largest online marketplace connecting borrowers and investors." It is a peer-to-peer lending network that open sources some of its loan data to the community.
 
-I use the loan.csv file that contains real-world, historical data on loans organized by Lending Club between 2007 and 2011.
+I used the loan.csv file that contains real-world, historical data on loans organized by Lending Club between 2007 and 2011.
 
 ![Screen Shot 2020-10-13 at 11 01 14 PM](https://user-images.githubusercontent.com/63126292/95942130-01280980-0da8-11eb-88a8-cfa750120469.png)
 
 1. Business Understanding
 
-You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+You work for a consumer finance company which specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
 If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 
@@ -107,7 +106,7 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 ![download](https://user-images.githubusercontent.com/63126292/97929852-b9096080-1d2f-11eb-9c42-036d103db5a1.png)
 
 ---
-### Supervised Learning Project: Wine Quality Prediction
+### Supervised Learning Project: Wine Quality Prediction using Logistic, K-Nearest Neighbor, Decission Tree, Random Forest, Support Vector
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Loan_Prediction) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1AinDO8z5Ud7OVTSx6KS3yGUauJqzzGhq?usp=sharing)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Loan_Prediction/blob/main/Supervised_Learning_Project_Loan_Prediction_final_version.ipynb)
@@ -118,12 +117,12 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 * The goal of this kernel is to find the best approach to identify the quality of wines. We will go through the basic EDA and visually identify the quality 
 Moreover, I also applied multiple ML models to make the prediction respectively. Each of the models would have its own strength.
 * There are two different notebooks. One is for red wine, and another one is for white wine
-* My research is good for alcohol beverage companies and customers who love to learn more about wine
+* My research is good beneficial for alcohol beverage companies and customers who love to learn more about wine.
 
 2. Dataset
 * The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 * Acknowledgements
- This dataset is also available from the [UCI machine learning repository](https://archive.ics.uci.edu/ml/datasets/wine+quality) , I just shared it to kaggle for convenience. (I am mistaken and the public license type disallowed me from doing so, I will take this down at first request. I am not the owner of this dataset.
+ This dataset is also available from the [UCI machine learning repository](https://archive.ics.uci.edu/ml/datasets/wine+quality) , I just shared it to Kaggle for convenience. (I am mistaken and the public license type disallowed me from doing so, I will take this down at first request. I am not the owner of this dataset.)
 * P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 3. Outcome
