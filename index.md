@@ -15,6 +15,11 @@ The dataset belongs to [Stanford Network Analysis Project](https://snap.stanford
 ![31d13c99ee841869ca44ef54ba956272](https://user-images.githubusercontent.com/63126292/106423731-a550c180-6426-11eb-84a7-ca4f738f5ae2.png)
 
 ### 1. Outcome
+[Words in Positive Reviews]![download (6)](https://user-images.githubusercontent.com/63126292/106503106-d82ca100-648a-11eb-85bb-b7b8486e0e17.png)
+
+[Word in Nevative Reviews]![download (7)](https://user-images.githubusercontent.com/63126292/106503136-e24e9f80-648a-11eb-9649-70ffc90acbad.png)
+
+
 a. Recommendation system with Sparse Matrix ```scipy.sparse.linalg.svds```
 
 a.1. Building Popularity Recommender system
