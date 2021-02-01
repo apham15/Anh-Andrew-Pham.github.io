@@ -2,8 +2,7 @@
 
 ---
 ## Amazon Fine Food Review 
-### A dataset allows me to utilized all data science skills
-### Using Statistical Analysis (Sparse Matrix, Descriptive Analysis), Extract Component with TruncatedSVD, Text Processing (NLTK stopword, TF-IDF, Bag of Word, Word to Vector), Machine Learning Algorithms (BernoulliNB, Logistic Regression), K-means Clustering Method, Visualization with Plotly, Deep Learning wiht Kera (Tokenizer, ANN, RNN - LSTM)
+### Using Statistical Analysis (Sparse Matrix, Descriptive Analysis), Extract Component with TruncatedSVD, Text Processing (NLTK stopword, TF-IDF, Bag of Word, Word to Vector), Machine Learning Algorithms (BernoulliNB, Logistic Regression), K-means Clustering Method, Visualization with Plotly, Deep Learning with Kera (Tokenizer, ANN, RNN - LSTM)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Amazon_Fine_Food_Review) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/152Bde9BARD6lZczGvFlDGL91nATMPRRl?usp=sharing)
