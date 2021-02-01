@@ -14,9 +14,13 @@ The dataset belongs to [Stanford Network Analysis Project](https://snap.stanford
 ![31d13c99ee841869ca44ef54ba956272](https://user-images.githubusercontent.com/63126292/106423731-a550c180-6426-11eb-84a7-ca4f738f5ae2.png)
 
 ### 1. Outcome
-[Words in Positive Reviews]![download (6)](https://user-images.githubusercontent.com/63126292/106503106-d82ca100-648a-11eb-85bb-b7b8486e0e17.png)
+Words in Positive Reviews
 
-[Word in Nevative Reviews]![download (7)](https://user-images.githubusercontent.com/63126292/106503136-e24e9f80-648a-11eb-9649-70ffc90acbad.png)
+![download (6)](https://user-images.githubusercontent.com/63126292/106503106-d82ca100-648a-11eb-85bb-b7b8486e0e17.png)
+
+Word in Nevative Reviews
+
+![download (7)](https://user-images.githubusercontent.com/63126292/106503136-e24e9f80-648a-11eb-9649-70ffc90acbad.png)
 
 
 a. Recommendation system with Sparse Matrix ```scipy.sparse.linalg.svds```
@@ -41,8 +45,13 @@ b. Sentiment Analysis
 
 b.1 Machine Learning Algorithms
 
-* [Accuracy]![Screen Shot 2021-02-01 at 12 20 48 AM](https://user-images.githubusercontent.com/63126292/106421972-5fdec500-6423-11eb-9edf-4e5de62c1a93.png)
-* [Log Loss]![Screen Shot 2021-02-01 at 12 20 55 AM](https://user-images.githubusercontent.com/63126292/106422031-79800c80-6423-11eb-816b-c85973174c77.png)
+* Accuracy scores
+
+![Screen Shot 2021-02-01 at 12 20 48 AM](https://user-images.githubusercontent.com/63126292/106421972-5fdec500-6423-11eb-9edf-4e5de62c1a93.png)
+
+* Log Loss
+
+![Screen Shot 2021-02-01 at 12 20 55 AM](https://user-images.githubusercontent.com/63126292/106422031-79800c80-6423-11eb-816b-c85973174c77.png)
 
 * TF-IDF is the best model that has the highest accuracy score for both NernoulliNB and Logistic regression
 
@@ -91,9 +100,13 @@ The dataset belongs to Standford University, Since I cannot find the original so
 [Logistic Regression] ![Screen Shot 2021-02-01 at 1 21 14 AM](https://user-images.githubusercontent.com/63126292/106426898-0333d800-642c-11eb-934e-7c19428f314a.png)
 
 * The best machine learning algorithms is Logistic Regression and the second ond is Bernoulli Naive Bayers
-[Accuracy] ![download (5)](https://user-images.githubusercontent.com/63126292/106426940-18a90200-642c-11eb-8022-0780b24b60c1.png)
+Accuracy
 
-[Log Loss] ![download (4)](https://user-images.githubusercontent.com/63126292/106427012-3a09ee00-642c-11eb-9b91-1a2d6c3cde8c.png)
+![download (5)](https://user-images.githubusercontent.com/63126292/106426940-18a90200-642c-11eb-8022-0780b24b60c1.png)
+
+Log Loss 
+
+![download (4)](https://user-images.githubusercontent.com/63126292/106427012-3a09ee00-642c-11eb-9b91-1a2d6c3cde8c.png)
 
 * For tunning the best parameter sets: 
   ** The best one for Logistic Regression are  ```lr__C: 1.0, lr__penalty: 'l2', lr__solver: 'newton-cg'```
