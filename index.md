@@ -144,6 +144,7 @@ I am a traveler, and airplanes are my primary means of transportation to discove
 * Avoid going to Sao Paulo, Brazil ; Moscow, Russia ; Rio de Janeiro, Brazil ; they had highest plane crash location.
 * It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for the airline industry.
 * Peole who are born in the year of the Ox have a higher risk of death, and people who are born in the year of the Horse have high chance to survive
+
 ![download (9)](https://user-images.githubusercontent.com/63126292/100661775-9a3fbf00-3319-11eb-8103-5b35c5bc2d9e.png)
 ![download (10)](https://user-images.githubusercontent.com/63126292/100661776-9ad85580-3319-11eb-8108-c98376f7e609.png)
 
