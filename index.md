@@ -90,8 +90,13 @@ The dataset belongs to Standford University, Since I cannot find the original so
 
 ### 1. Outcome
 * From the dataset, the amount of positive and negative tweets are almost the same
-* Words in Positive Tweets ![download (2)](https://user-images.githubusercontent.com/63126292/106426389-21e59f00-642b-11eb-9a18-75585935121a.png)
-* Words in Negative Tweets ![download (3)](https://user-images.githubusercontent.com/63126292/106426363-14c8b000-642b-11eb-905a-149dcbcf0940.png)
+* Words in Positive Tweets 
+
+![download (2)](https://user-images.githubusercontent.com/63126292/106426389-21e59f00-642b-11eb-9a18-75585935121a.png)
+
+* Words in Negative Tweets 
+
+![download (3)](https://user-images.githubusercontent.com/63126292/106426363-14c8b000-642b-11eb-905a-149dcbcf0940.png)
 
 * The best vectorized method is TF-IDF, which has the lowest log loss and highest accuracy scores in all machine learning algorithms
 
