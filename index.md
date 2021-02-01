@@ -5,6 +5,11 @@
 ### A dataset allows me to utilized all data science skills
 ### Using Statistical Analysis (Sparse Matrix, Descriptive Analysis), Extract Component with TruncatedSVD, Text Processing (NLTK stopword, TF-IDF, Bag of Word, Word to Vector), Machine Learning Algorithms (BernoulliNB, Logistic Regression), K-means Clustering Method, Visualization with Plotly, Deep Learning wiht Kera (Tokenizer, ANN, RNN - LSTM)
 
+[Amazon.com, Inc.](https://www.amazon.com/) is an American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. The fine food data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plaintext review.
+The dataset belongs to [Stanford Network Analysis Project](https://snap.stanford.edu/data/web-FineFoods.html)
+
+![31d13c99ee841869ca44ef54ba956272](https://user-images.githubusercontent.com/63126292/106423731-a550c180-6426-11eb-84a7-ca4f738f5ae2.png)
+
 ### 1. Outcome
 a. Recommendation system with Sparse Matrix ```scipy.sparse.linalg.svds```
 
@@ -59,6 +64,11 @@ b.3 Deep Learning
 ### Using Text Processing (NLTK stopword, TF-IDF, Bag of Word, Word to Vector), Extract Component with TruncatedSVD, and Machine Learning Algorithms (BernoulliNB, Logistic Regression, Random Forest, XGBoost)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Cz0w8z4IWivmNacHSOBPnD_x7A6gXIca?usp=sharing)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Twitter_Sentiment_Analysis/blob/main/NLP%20-%20sentiment%20analysis.ipynb)
+
+[Twitter](https://twitter.com/) is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Registered users can post, like and retweet tweets, but unregistered users can only read them
+The dataset belongs to Standford University, Since I cannot find the original source but research papers, I use the dataset that public on [Kaggle](https://www.kaggle.com/kazanova/sentiment140)
+
+![Twitter](https://user-images.githubusercontent.com/63126292/106425944-51e07280-642a-11eb-888d-ad13efa902c3.jpg)
 
 ### 1. Outcome
 * From the dataset, the amount of positive and negative tweets are almost the same
