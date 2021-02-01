@@ -5,6 +5,10 @@
 ### A dataset allows me to utilized all data science skills
 ### Using Statistical Analysis (Sparse Matrix, Descriptive Analysis), Extract Component with TruncatedSVD, Text Processing (NLTK stopword, TF-IDF, Bag of Word, Word to Vector), Machine Learning Algorithms (BernoulliNB, Logistic Regression), K-means Clustering Method, Visualization with Plotly, Deep Learning wiht Kera (Tokenizer, ANN, RNN - LSTM)
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Amazon_Fine_Food_Review) 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/152Bde9BARD6lZczGvFlDGL91nATMPRRl?usp=sharing)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Amazon_Fine_Food_Review/blob/main/amazon%20food%20review.ipynb)
+
 [Amazon.com, Inc.](https://www.amazon.com/) is an American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. The fine food data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plaintext review.
 The dataset belongs to [Stanford Network Analysis Project](https://snap.stanford.edu/data/web-FineFoods.html)
 
@@ -62,6 +66,7 @@ b.3 Deep Learning
 ---
 ## NLP Project: Twitter Sentiment Analysis
 ### Using Text Processing (NLTK stopword, TF-IDF, Bag of Word, Word to Vector), Extract Component with TruncatedSVD, and Machine Learning Algorithms (BernoulliNB, Logistic Regression, Random Forest, XGBoost)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Twitter_Sentiment_Analysis) 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Cz0w8z4IWivmNacHSOBPnD_x7A6gXIca?usp=sharing)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Twitter_Sentiment_Analysis/blob/main/NLP%20-%20sentiment%20analysis.ipynb)
 
