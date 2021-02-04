@@ -61,6 +61,8 @@ a.2. Building Collabrating Filtering
 
 * Based on the real value and the predict value, it is clear to see that the predictive recomendation system is great
 * The Popularity-based recommender system is non-personalised and the recommendations are based on frequecy counts, which may be not suitable to the user.You can see the differance above for the user id 70 and 100, The Popularity based model has recommended the same set of 5 or 6 products to both but Collaborative Filtering based model has recommended entire different list based on the user past purchase history
+* To evaluate the model, I apply RMSE score to test whether it is a good one or not. For RMSE, the lower of the value is, the better the performance of the model is. ```RMSE SVD Model = 0.0069574634757268656```
+
 
 b. Sentiment Analysis
 
@@ -79,7 +81,7 @@ b.1 Machine Learning Algorithms
 ![Screen Shot 2021-02-01 at 12 26 21 AM](https://user-images.githubusercontent.com/63126292/106422417-2a86a700-6424-11eb-9090-13ce94a73037.png)
 
 * Logistic Regresison is the best model that fit in this dataset because it bring the highest accuracy score with the lowest log loss
-* Tuning model, the best parameters set fo Logistic Regression is ```lr__C: 100.0, 	lr__penalty: 'none', lr__solver: 'saga'```
+* Tuning model, the best parameters set fo Logistic Regression is ```lr__C: 100.0, 	lr__penalty: 'none', lr__solver: 'saga'``` with the highest accuracy score is 93%
 
 b.2 Clustering the top words with K-mean
 * The best number of cluster is 3 with the highest Silhoutte Score is 0.002
@@ -95,6 +97,7 @@ b.3 Deep Learning
 
 ### 2. Conclusion
 * Amazon Fine Food Review dataset is the incredible one. It allows me to utilized all my skills: statistical analysis, supervised learning method, unsupervised learning method, machine learning algorithm, deep learning. 
+* I used to confuse about the Sparse Matrix, but with this dataset, I completely understand how the matrix works by researching and applying it into my personal recommendation system. Furthermore, it is priceless to bring the relevence of statistic to the real world by utilizing it into the hand-on project.
 * From this dataset, I learn that with deep learning, everything is so simple. Kereas class with tokenzie to vectorize word is faster than TF-IDF traditional method. Also, RNN-LSTM utilized the plaintext review vectorized to bring up the better accuracy score for future sentiment analysis
 * My work is useful for all type of e-commerce because it can apply for both strategy team and customer service team to help the business to be better.
 
