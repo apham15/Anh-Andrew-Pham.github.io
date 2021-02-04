@@ -39,7 +39,7 @@ Words in Positive Reviews
 
 ![download (6)](https://user-images.githubusercontent.com/63126292/106503106-d82ca100-648a-11eb-85bb-b7b8486e0e17.png)
 
-Word in Nevative Reviews
+Word in Negative Reviews
 
 ![download (7)](https://user-images.githubusercontent.com/63126292/106503136-e24e9f80-648a-11eb-9649-70ffc90acbad.png)
 
@@ -80,7 +80,8 @@ b.1 Machine Learning Algorithms
 
 * Logistic Regresison is the best model that fit in this dataset because it bring the highest accuracy score with the lowest log loss
 * Tuning model, the best parameters set fo Logistic Regression is ```lr__C: 100.0, 	lr__penalty: 'none', lr__solver: 'saga'```
-b.2 Clustring the top words with K-mean
+
+b.2 Clustering the top words with K-mean
 * The best number of cluster is 3 with the highest Silhoutte Score is 0.002
 * Top 10 words are ['strong', 'br', 'cup coffee', 'tea',  'taste',  'like', 'cups', 'flavor', 'coffee', 'love', 'one', 'food', 'good', 'cup', 'great', 'bold', 'br br', 'product']
 
