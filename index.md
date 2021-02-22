@@ -258,9 +258,7 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 ---
 ## Supervised Learning Project: Wine Quality Prediction 
 ### Using Logistic, K-Nearest Neighbor, Decission Tree, Random Forest, Support Vector
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Loan_Prediction) 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1AinDO8z5Ud7OVTSx6KS3yGUauJqzzGhq?usp=sharing)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Loan_Prediction/blob/main/Supervised_Learning_Project_Loan_Prediction_final_version.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apham15/Wine_Quality_Prediction) 
 
 ![wine-images-high-resolution-free-download](https://user-images.githubusercontent.com/63126292/97619738-96eda680-19ee-11eb-8b50-323cd9900bca.jpg)
 
